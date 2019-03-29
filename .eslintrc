@@ -12,6 +12,7 @@
     "arrow-body-style": "off",
     "no-loop-func": "off",
     "no-plusplus": "off",
-    "no-param-reassign": "off"
+    "no-param-reassign": "off",
+    "no-unused-vars": "off"
   }
 }
